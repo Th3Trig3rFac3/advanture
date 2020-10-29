@@ -1,0 +1,14 @@
+D:\VS\Kalandprogram prog módszertanra\bin\Debug\Kalandprogram prog módszertanra.exe.config
+D:\VS\Kalandprogram prog módszertanra\bin\Debug\Kalandprogram prog módszertanra.exe
+D:\VS\Kalandprogram prog módszertanra\bin\Debug\Kalandprogram prog módszertanra.pdb
+D:\VS\Kalandprogram prog módszertanra\obj\Debug\Kalandprogram prog módszertanra.csprojAssemblyReference.cache
+D:\VS\Kalandprogram prog módszertanra\obj\Debug\Kalandprogram prog módszertanra.csproj.CoreCompileInputs.cache
+D:\VS\Kalandprogram prog módszertanra\obj\Debug\Kalandprogram prog módszertanra.exe
+D:\VS\Kalandprogram prog módszertanra\obj\Debug\Kalandprogram prog módszertanra.pdb
+D:\VS\Kalandprogram prog módszertanra github\bin\Debug\Kalandprogram prog módszertanra.exe.config
+D:\VS\Kalandprogram prog módszertanra github\bin\Debug\Kalandprogram prog módszertanra.exe
+D:\VS\Kalandprogram prog módszertanra github\bin\Debug\Kalandprogram prog módszertanra.pdb
+D:\VS\Kalandprogram prog módszertanra github\obj\Debug\Kalandprogram prog módszertanra.csprojAssemblyReference.cache
+D:\VS\Kalandprogram prog módszertanra github\obj\Debug\Kalandprogram prog módszertanra.csproj.CoreCompileInputs.cache
+D:\VS\Kalandprogram prog módszertanra github\obj\Debug\Kalandprogram prog módszertanra.exe
+D:\VS\Kalandprogram prog módszertanra github\obj\Debug\Kalandprogram prog módszertanra.pdb
